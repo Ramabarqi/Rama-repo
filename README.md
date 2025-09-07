@@ -2,11 +2,11 @@
 # Hello, I'm Rama
 <a href="https://www.linkedin.com/in/ramabarqi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Security Analyst with interest in Threat Detection.
+I am a Security Analyst with interest in SOC department.
 
 
 ## Objective
-My journey in cybersecurity has led me to develop a strong passion for threat detection, and I aim to become a skilled SOC Engineer.
+My journey in cybersecurity has led me to develop a strong passion for SOC, and I aim to become a skilled SOC Engineer.
 
 
 ## Tools
