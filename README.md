@@ -6,7 +6,7 @@ I am a Security Analyst with interest in Threat Detection.
 
 
 ## Objective
-My journey in cybersecurity has led me to develop a strong passion for threat detection, and I aim to become a skilled Threat Detection Engineer.
+My journey in cybersecurity has led me to develop a strong passion for threat detection, and I aim to become a skilled SOC Engineer.
 
 
 ## Tools
