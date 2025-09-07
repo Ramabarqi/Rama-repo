@@ -6,7 +6,7 @@ I am a Security Analyst with interest in SOC department.
 
 
 ## Objective
-My journey in cybersecurity has led me to develop a strong passion for SOC, and I aim to become a skilled SOC Engineer.
+My journey in cybersecurity has led me to develop a strong passion for SOC.
 
 
 ## Tools
@@ -39,6 +39,7 @@ My journey in cybersecurity has led me to develop a strong passion for SOC, and 
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-eJPTv2-007ACC?&style=for-the-badge&logo=elearning&logoColor=white" />
     <img src="https://img.shields.io/badge/-CySA%2B-008080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDSA-9C27B0?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" />
 </div>
 
 
