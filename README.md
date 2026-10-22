@@ -1,4 +1,6 @@
 # Rama-Repo
+# About-Rama
+
 
 
 I am Rama, SOC Analyst dedicated to monitoring, threat detection and incident analysis.
