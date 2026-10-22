@@ -1,13 +1,11 @@
-# Rama-repo
-# Hello, I'm Rama
+# Rama-Repo
 
 
-I am a Security Analyst with interest in SOC department.
+I am Rama, SOC Analyst dedicated to monitoring, threat detection and incident analysis.
 
 
 ## Objective
-My journey in cybersecurity has led me to develop a strong passion for SOC.
-
+This repository serves as a portfolio of my practical exercises and defensive security coursework. It focuses on detection use case engineering and incident analysis.
 
 ## Tools
 
@@ -40,6 +38,7 @@ My journey in cybersecurity has led me to develop a strong passion for SOC.
     <img src="https://img.shields.io/badge/-eJPTv2-007ACC?&style=for-the-badge&logo=elearning&logoColor=white" />
     <img src="https://img.shields.io/badge/-CySA%2B-008080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CDSA-9C27B0?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BTL1-1E3A8A?&style=for-the-badge&logo=shield&logoColor=white" />    
 </div>
 
 
